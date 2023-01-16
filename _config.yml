@@ -29,6 +29,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+
+
+theme: minima
+
 # Build settings
 plugins:
   - jekyll-feed
@@ -54,6 +58,6 @@ plugins:
 #   - vendor/ruby/
 
 # gh-settings
-#domain: yc7.github.io         # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-#url: https://yc7.github.io   # the base hostname and protocol for your site, e.g. http://example.com
-#baseurl: /yc7.github.io/     # place folder name if the site is served in a subfolder
+domain: yc7.github.io         # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://yc7.github.io   # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /yc7.github.io/     # place folder name if the site is served in a subfolder
